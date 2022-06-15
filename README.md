@@ -13,6 +13,12 @@
 - Twitter: [@ElioCortesM](https://twitter.com/ElioCortesM)
 - LinkedIn: [elionelsoncortes](https://www.linkedin.com/in/elionelsoncortes/)
 
+👤 **Oluyemi Paul**
+
+- [GitHub: Ol-create](https://github.com/Ol-create)
+- [Twitter: OluyemiPaul99](https://twitter.com/OluyemiPaul99)
+- [LinkedIn: paul-oluyemi-193966ab](https://www.linkedin.com/in/paul-oluyemi-193966ab)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
